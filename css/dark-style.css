@@ -95,7 +95,7 @@
 		font-style:italic;
 	}
 	a.navbar-brand {
-		background: url(images/logo.png) no-repeat scroll left top rgba(0, 0, 0, 0);
+		background: url(../images/logo.png) no-repeat scroll left top rgba(0, 0, 0, 0);
 		color: #fff !important;
 		font-size: 35px;
 		font-weight: 400;
@@ -2372,7 +2372,7 @@
 	}
 	.dmtop {
 		background-color:#161616;
-		background-image: url(images/arrow.png);
+		background-image: url(../images/arrow.png);
 		background-position: 50% 50%;
 		background-repeat: no-repeat;
 		z-index: 9999;
@@ -3883,7 +3883,7 @@
 		position:absolute;
 		left:50%; /* centers the loading animation horizontally one the screen */
 		top:50%; /* centers the loading animation vertically one the screen */
-		background-image:url(images/loading.gif); /* path to your loading animation */
+		background-image:url(../images/loading.gif); /* path to your loading animation */
 		background-repeat:no-repeat;
 		background-position:center;
 		margin:-100px 0 0 -100px; /* is width and height divided by two */
